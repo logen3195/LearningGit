@@ -1,2 +1,2 @@
-# P3
+# LearningGit
 practical 3
